@@ -1,0 +1,23 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "description": "Discord - BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xPhanda/Simple-BOT.git"
+  },
+  "author": "Y4_Phanda#0964",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xPhanda/Simple-BOT/issues"
+  },
+  "homepage": "https://github.com/xPhanda/Simple-BOT#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3"
+  }
+}
